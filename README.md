@@ -1,2 +1,4 @@
-# VirtualAssistant
-Chatbot for the customer interaction using python
+# Simple-Python-Chatbot
+
+Creating a simple Python chatbot using natural language processing and deep learning.
+
