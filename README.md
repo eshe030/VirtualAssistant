@@ -1,4 +1,2 @@
-# Simple-Python-Chatbot
-
-Creating a simple Python chatbot using natural language processing and deep learning.
+Virtual Assistant for customer Interaction using Deep learning and python programming
 
